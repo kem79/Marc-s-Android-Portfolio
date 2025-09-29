@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Marc" s Android(Projects"
+rootProject.name = "Marc's Android(Projects"
 include(":app")
